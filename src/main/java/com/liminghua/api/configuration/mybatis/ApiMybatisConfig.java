@@ -14,7 +14,7 @@ import org.springframework.context.annotation.Primary;
 import javax.sql.DataSource;
 
 /**
- * 自定义api框架的DataSouce和SqlSessionFactory、SqlSessionTemplate
+ * 自定义api框架的DataSource和SqlSessionFactory、SqlSessionTemplate
  * @ClassName ApiMybatisConfig
  * @Author LiMinghua
  * @Date 2020/6/1
@@ -32,6 +32,7 @@ public class ApiMybatisConfig {
      * @date: 2020/6/2 8:55
      */
     @Bean(name = "apiDataSource")
+    @Qualifier("apiDataSource")
     @ConfigurationProperties(prefix = "spring.datasource.api")
     public DataSource apiDataSource() {
         return DataSourceBuilder.create().build();
@@ -43,6 +44,7 @@ public class ApiMybatisConfig {
      * @date: 2020/6/2 8:58
      */
     @Bean(name = "apiSqlSessionFactory")
+    @Qualifier("apiSqlSessionFactory")
     SqlSessionFactory apiSqlSessionFactory(@Qualifier("apiDataSource") DataSource dataSource) throws Exception {
         SqlSessionFactoryBean bean = new SqlSessionFactoryBean();
         bean.setDataSource(dataSource);
@@ -55,6 +57,7 @@ public class ApiMybatisConfig {
      * @date: 2020/6/2 8:59
      */
     @Bean(name = "apiSqlSessionTemplate")
+    @Qualifier("apiSqlSessionTemplate")
     SqlSessionTemplate apiSqlSessionTemplate(@Qualifier("apiSqlSessionFactory")  SqlSessionFactory sqlSessionFactory) {
         return new SqlSessionTemplate(sqlSessionFactory);
     }

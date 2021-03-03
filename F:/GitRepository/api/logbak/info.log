@@ -1,0 +1,61 @@
+2021-03-03 : 08:42:49.991[main]INFO com.liminghua.api.ApiApplication-Starting ApiApplication on lideMacBook-Pro.local with PID 1908 (/Users/minghua/gitWorkspace/api/target/classes started by minghua in /Users/minghua/gitWorkspace/api)
+2021-03-03 : 08:42:50.006[main]INFO com.liminghua.api.ApiApplication-No active profile set, falling back to default profiles: default
+2021-03-03 : 08:42:55.897[main]INFO com.liminghua.api.ApiApplication-Started ApiApplication in 8.549 seconds (JVM running for 10.131)
+2021-03-03 : 09:10:30.919[main]INFO com.liminghua.api.ApiApplication-Starting ApiApplication on lideMacBook-Pro.local with PID 2159 (/Users/minghua/gitWorkspace/api/target/classes started by minghua in /Users/minghua/gitWorkspace/api)
+2021-03-03 : 09:10:30.922[main]INFO com.liminghua.api.ApiApplication-No active profile set, falling back to default profiles: default
+2021-03-03 : 09:10:36.841[main]INFO com.liminghua.api.ApiApplication-Started ApiApplication in 6.556 seconds (JVM running for 8.098)
+2021-03-03 : 09:19:04.909[main]INFO com.liminghua.api.ApiApplication-Starting ApiApplication on lideMacBook-Pro.local with PID 2230 (/Users/minghua/gitWorkspace/api/target/classes started by minghua in /Users/minghua/gitWorkspace/api)
+2021-03-03 : 09:19:04.912[main]INFO com.liminghua.api.ApiApplication-No active profile set, falling back to default profiles: default
+2021-03-03 : 09:19:08.953[main]INFO com.liminghua.api.ApiApplication-Started ApiApplication in 4.786 seconds (JVM running for 6.418)
+2021-03-03 : 09:23:19.844[main]INFO com.liminghua.api.ApiApplication-Starting ApiApplication on lideMacBook-Pro.local with PID 2266 (/Users/minghua/gitWorkspace/api/target/classes started by minghua in /Users/minghua/gitWorkspace/api)
+2021-03-03 : 09:23:19.847[main]INFO com.liminghua.api.ApiApplication-No active profile set, falling back to default profiles: default
+2021-03-03 : 09:28:23.877[main]INFO com.liminghua.api.ApiApplication-Starting ApiApplication on lideMacBook-Pro.local with PID 2317 (/Users/minghua/gitWorkspace/api/target/classes started by minghua in /Users/minghua/gitWorkspace/api)
+2021-03-03 : 09:28:23.881[main]INFO com.liminghua.api.ApiApplication-No active profile set, falling back to default profiles: default
+2021-03-03 : 09:32:13.965[main]INFO com.liminghua.api.ApiApplication-Starting ApiApplication on lideMacBook-Pro.local with PID 2374 (/Users/minghua/gitWorkspace/api/target/classes started by minghua in /Users/minghua/gitWorkspace/api)
+2021-03-03 : 09:32:13.968[main]INFO com.liminghua.api.ApiApplication-No active profile set, falling back to default profiles: default
+2021-03-03 : 09:32:18.035[main]INFO com.liminghua.api.ApiApplication-Started ApiApplication in 4.716 seconds (JVM running for 5.959)
+2021-03-03 : 09:43:08.560[main]INFO com.liminghua.api.ApiApplication-Starting ApiApplication on lideMacBook-Pro.local with PID 2455 (/Users/minghua/gitWorkspace/api/target/classes started by minghua in /Users/minghua/gitWorkspace/api)
+2021-03-03 : 09:43:08.565[main]INFO com.liminghua.api.ApiApplication-No active profile set, falling back to default profiles: default
+2021-03-03 : 09:43:12.581[main]INFO com.liminghua.api.ApiApplication-Started ApiApplication in 4.635 seconds (JVM running for 5.937)
+2021-03-03 : 10:09:15.563[main]INFO com.liminghua.api.ApiApplication-Starting ApiApplication on lideMacBook-Pro.local with PID 2620 (/Users/minghua/gitWorkspace/api/target/classes started by minghua in /Users/minghua/gitWorkspace/api)
+2021-03-03 : 10:09:15.566[main]INFO com.liminghua.api.ApiApplication-No active profile set, falling back to default profiles: default
+2021-03-03 : 10:09:19.418[main]INFO com.liminghua.api.ApiApplication-Started ApiApplication in 4.51 seconds (JVM running for 5.741)
+2021-03-03 : 10:13:38.997[main]INFO com.liminghua.api.ApiApplication-Starting ApiApplication on lideMacBook-Pro.local with PID 2649 (/Users/minghua/gitWorkspace/api/target/classes started by minghua in /Users/minghua/gitWorkspace/api)
+2021-03-03 : 10:13:39.000[main]INFO com.liminghua.api.ApiApplication-No active profile set, falling back to default profiles: default
+2021-03-03 : 10:13:43.434[main]INFO com.liminghua.api.ApiApplication-Started ApiApplication in 5.023 seconds (JVM running for 6.179)
+2021-03-03 : 10:14:47.826[main]INFO com.liminghua.api.ApiApplication-Starting ApiApplication on lideMacBook-Pro.local with PID 2664 (/Users/minghua/gitWorkspace/api/target/classes started by minghua in /Users/minghua/gitWorkspace/api)
+2021-03-03 : 10:14:47.828[main]INFO com.liminghua.api.ApiApplication-No active profile set, falling back to default profiles: default
+2021-03-03 : 10:14:51.745[main]INFO com.liminghua.api.ApiApplication-Started ApiApplication in 4.472 seconds (JVM running for 5.365)
+2021-03-03 : 10:16:02.390[main]INFO com.liminghua.api.ApiApplication-Starting ApiApplication on lideMacBook-Pro.local with PID 2673 (/Users/minghua/gitWorkspace/api/target/classes started by minghua in /Users/minghua/gitWorkspace/api)
+2021-03-03 : 10:16:02.393[main]INFO com.liminghua.api.ApiApplication-No active profile set, falling back to default profiles: default
+2021-03-03 : 10:16:07.666[main]INFO com.liminghua.api.ApiApplication-Started ApiApplication in 5.951 seconds (JVM running for 6.966)
+2021-03-03 : 10:32:50.196[main]INFO com.liminghua.api.ApiApplication-Starting ApiApplication on lideMacBook-Pro.local with PID 2791 (/Users/minghua/gitWorkspace/api/target/classes started by minghua in /Users/minghua/gitWorkspace/api)
+2021-03-03 : 10:32:50.215[main]INFO com.liminghua.api.ApiApplication-No active profile set, falling back to default profiles: default
+2021-03-03 : 10:32:55.132[main]INFO com.liminghua.api.ApiApplication-Started ApiApplication in 5.677 seconds (JVM running for 7.139)
+2021-03-03 : 10:46:15.236[main]INFO com.liminghua.api.ApiApplication-Starting ApiApplication on lideMacBook-Pro.local with PID 6733 (/Users/minghua/gitWorkspace/api/target/classes started by minghua in /Users/minghua/gitWorkspace/api)
+2021-03-03 : 10:46:15.240[main]INFO com.liminghua.api.ApiApplication-No active profile set, falling back to default profiles: default
+2021-03-03 : 10:46:20.037[main]INFO com.liminghua.api.ApiApplication-Started ApiApplication in 5.496 seconds (JVM running for 8.08)
+2021-03-03 : 10:47:55.657[main]INFO com.liminghua.api.ApiApplication-Starting ApiApplication on lideMacBook-Pro.local with PID 6755 (/Users/minghua/gitWorkspace/api/target/classes started by minghua in /Users/minghua/gitWorkspace/api)
+2021-03-03 : 10:47:55.663[main]INFO com.liminghua.api.ApiApplication-No active profile set, falling back to default profiles: default
+2021-03-03 : 10:48:02.764[main]INFO com.liminghua.api.ApiApplication-Started ApiApplication in 8.488 seconds (JVM running for 10.169)
+2021-03-03 : 10:49:26.799[main]INFO com.liminghua.api.ApiApplication-Starting ApiApplication on lideMacBook-Pro.local with PID 6776 (/Users/minghua/gitWorkspace/api/target/classes started by minghua in /Users/minghua/gitWorkspace/api)
+2021-03-03 : 10:49:26.801[main]INFO com.liminghua.api.ApiApplication-No active profile set, falling back to default profiles: default
+2021-03-03 : 10:49:32.198[main]INFO com.liminghua.api.ApiApplication-Started ApiApplication in 5.976 seconds (JVM running for 7.44)
+2021-03-03 : 10:52:26.526[main]INFO com.liminghua.api.ApiApplication-Starting ApiApplication on lideMacBook-Pro.local with PID 6801 (/Users/minghua/gitWorkspace/api/target/classes started by minghua in /Users/minghua/gitWorkspace/api)
+2021-03-03 : 10:52:26.532[main]INFO com.liminghua.api.ApiApplication-No active profile set, falling back to default profiles: default
+2021-03-03 : 10:52:31.771[main]INFO com.liminghua.api.ApiApplication-Started ApiApplication in 6.066 seconds (JVM running for 7.924)
+2021-03-03 : 11:04:24.147[main]INFO com.liminghua.api.ApiApplication-Starting ApiApplication on lideMacBook-Pro.local with PID 10626 (/Users/minghua/gitWorkspace/api/target/classes started by minghua in /Users/minghua/gitWorkspace/api)
+2021-03-03 : 11:04:24.149[main]INFO com.liminghua.api.ApiApplication-No active profile set, falling back to default profiles: default
+2021-03-03 : 11:04:28.909[main]INFO com.liminghua.api.ApiApplication-Started ApiApplication in 5.36 seconds (JVM running for 6.61)
+2021-03-03 : 11:14:09.702[main]INFO com.liminghua.api.ApiApplication-Starting ApiApplication on lideMacBook-Pro.local with PID 10704 (/Users/minghua/gitWorkspace/api/target/classes started by minghua in /Users/minghua/gitWorkspace/api)
+2021-03-03 : 11:14:09.705[main]INFO com.liminghua.api.ApiApplication-No active profile set, falling back to default profiles: default
+2021-03-03 : 11:14:14.146[main]INFO com.liminghua.api.ApiApplication-Started ApiApplication in 5.108 seconds (JVM running for 6.476)
+2021-03-03 : 11:15:16.477[main]INFO com.liminghua.api.ApiApplication-Starting ApiApplication on lideMacBook-Pro.local with PID 10716 (/Users/minghua/gitWorkspace/api/target/classes started by minghua in /Users/minghua/gitWorkspace/api)
+2021-03-03 : 11:15:16.480[main]INFO com.liminghua.api.ApiApplication-No active profile set, falling back to default profiles: default
+2021-03-03 : 11:15:21.733[main]INFO com.liminghua.api.ApiApplication-Started ApiApplication in 6.059 seconds (JVM running for 6.964)
+2021-03-03 : 11:16:51.506[main]INFO com.liminghua.api.ApiApplication-Starting ApiApplication on lideMacBook-Pro.local with PID 10747 (/Users/minghua/gitWorkspace/api/target/classes started by minghua in /Users/minghua/gitWorkspace/api)
+2021-03-03 : 11:16:51.509[main]INFO com.liminghua.api.ApiApplication-No active profile set, falling back to default profiles: default
+2021-03-03 : 11:16:56.295[main]INFO com.liminghua.api.ApiApplication-Started ApiApplication in 5.453 seconds (JVM running for 6.392)
+2021-03-03 : 11:19:50.974[main]INFO com.liminghua.api.ApiApplication-Starting ApiApplication on lideMacBook-Pro.local with PID 10780 (/Users/minghua/gitWorkspace/api/target/classes started by minghua in /Users/minghua/gitWorkspace/api)
+2021-03-03 : 11:19:50.976[main]INFO com.liminghua.api.ApiApplication-No active profile set, falling back to default profiles: default
+2021-03-03 : 11:19:56.233[main]INFO com.liminghua.api.ApiApplication-Started ApiApplication in 5.883 seconds (JVM running for 7.289)

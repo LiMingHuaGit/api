@@ -1,0 +1,72 @@
+2021-03-03 : 08:42:50.001[main]DEBUGcom.liminghua.api.ApiApplication-Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-03-03 : 09:10:30.922[main]DEBUGcom.liminghua.api.ApiApplication-Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-03-03 : 09:11:00.082[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==>  Preparing: select * from api where api_url = ? 
+2021-03-03 : 09:11:00.113[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==> Parameters: /sysb/user/query/all(String)
+2021-03-03 : 09:11:00.199[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-<==      Total: 1
+2021-03-03 : 09:19:04.911[main]DEBUGcom.liminghua.api.ApiApplication-Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-03-03 : 09:19:15.494[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==>  Preparing: select * from api where api_url = ? 
+2021-03-03 : 09:19:15.520[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==> Parameters: /sysb/user/query/all(String)
+2021-03-03 : 09:19:15.550[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-<==      Total: 1
+2021-03-03 : 09:23:19.847[main]DEBUGcom.liminghua.api.ApiApplication-Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-03-03 : 09:28:23.880[main]DEBUGcom.liminghua.api.ApiApplication-Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-03-03 : 09:32:13.967[main]DEBUGcom.liminghua.api.ApiApplication-Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-03-03 : 09:39:42.528[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==>  Preparing: select * from api where api_url = ? 
+2021-03-03 : 09:39:42.559[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==> Parameters: /sysb/user/query/all(String)
+2021-03-03 : 09:39:42.599[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-<==      Total: 1
+2021-03-03 : 09:43:08.563[main]DEBUGcom.liminghua.api.ApiApplication-Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-03-03 : 10:09:15.565[main]DEBUGcom.liminghua.api.ApiApplication-Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-03-03 : 10:13:38.999[main]DEBUGcom.liminghua.api.ApiApplication-Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-03-03 : 10:14:47.828[main]DEBUGcom.liminghua.api.ApiApplication-Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-03-03 : 10:16:02.392[main]DEBUGcom.liminghua.api.ApiApplication-Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-03-03 : 10:16:13.975[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==>  Preparing: select * from api where api_url = ? 
+2021-03-03 : 10:16:13.999[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==> Parameters: /sysb/user/query/all(String)
+2021-03-03 : 10:16:14.022[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-<==      Total: 1
+2021-03-03 : 10:19:24.356[http-nio-8666-exec-3]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==>  Preparing: select * from api where api_url = ? 
+2021-03-03 : 10:19:24.359[http-nio-8666-exec-3]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==> Parameters: /sysa/car/query/all(String)
+2021-03-03 : 10:19:24.365[http-nio-8666-exec-3]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-<==      Total: 1
+2021-03-03 : 10:20:04.715[http-nio-8666-exec-4]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==>  Preparing: select * from api where api_url = ? 
+2021-03-03 : 10:20:04.716[http-nio-8666-exec-4]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==> Parameters: /sysa/car/query/all(String)
+2021-03-03 : 10:20:04.722[http-nio-8666-exec-4]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-<==      Total: 1
+2021-03-03 : 10:32:50.213[main]DEBUGcom.liminghua.api.ApiApplication-Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-03-03 : 10:33:05.912[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==>  Preparing: select * from api where api_url = ? 
+2021-03-03 : 10:33:06.143[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==> Parameters: /sysa/car/query/all(String)
+2021-03-03 : 10:33:06.210[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-<==      Total: 1
+2021-03-03 : 10:46:15.239[main]DEBUGcom.liminghua.api.ApiApplication-Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-03-03 : 10:47:55.662[main]DEBUGcom.liminghua.api.ApiApplication-Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-03-03 : 10:49:26.801[main]DEBUGcom.liminghua.api.ApiApplication-Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-03-03 : 10:49:37.628[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==>  Preparing: select * from api where api_url = ? 
+2021-03-03 : 10:49:37.675[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==> Parameters: /sysa/car/query/all(String)
+2021-03-03 : 10:49:37.700[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-<==      Total: 1
+2021-03-03 : 10:49:37.730[http-nio-8666-exec-1]DEBUGcom.liminghua.api.sysa.mapper.CarMapper.getAllCar-==>  Preparing: select * from car 
+2021-03-03 : 10:49:37.730[http-nio-8666-exec-1]DEBUGcom.liminghua.api.sysa.mapper.CarMapper.getAllCar-==> Parameters: 
+2021-03-03 : 10:49:37.757[http-nio-8666-exec-1]DEBUGcom.liminghua.api.sysa.mapper.CarMapper.getAllCar-<==      Total: 1
+2021-03-03 : 10:50:13.706[http-nio-8666-exec-2]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==>  Preparing: select * from api where api_url = ? 
+2021-03-03 : 10:50:13.706[http-nio-8666-exec-2]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==> Parameters: /sysb/user/query/all(String)
+2021-03-03 : 10:50:13.712[http-nio-8666-exec-2]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-<==      Total: 1
+2021-03-03 : 10:50:39.400[http-nio-8666-exec-4]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==>  Preparing: select * from api where api_url = ? 
+2021-03-03 : 10:50:39.401[http-nio-8666-exec-4]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==> Parameters: /sysa/car/query/all(String)
+2021-03-03 : 10:50:39.403[http-nio-8666-exec-4]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-<==      Total: 1
+2021-03-03 : 10:50:39.404[http-nio-8666-exec-4]DEBUGcom.liminghua.api.sysa.mapper.CarMapper.getAllCar-==>  Preparing: select * from car 
+2021-03-03 : 10:50:39.405[http-nio-8666-exec-4]DEBUGcom.liminghua.api.sysa.mapper.CarMapper.getAllCar-==> Parameters: 
+2021-03-03 : 10:50:39.406[http-nio-8666-exec-4]DEBUGcom.liminghua.api.sysa.mapper.CarMapper.getAllCar-<==      Total: 1
+2021-03-03 : 10:52:26.531[main]DEBUGcom.liminghua.api.ApiApplication-Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-03-03 : 10:53:17.163[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==>  Preparing: select * from api where api_url = ? 
+2021-03-03 : 10:53:17.199[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==> Parameters: /sysb/user/query/all(String)
+2021-03-03 : 10:53:17.331[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-<==      Total: 1
+2021-03-03 : 10:53:17.366[http-nio-8666-exec-1]DEBUGc.liminghua.api.sysb.mapper.UserMapper.getAllUser-==>  Preparing: select * from user 
+2021-03-03 : 10:53:17.367[http-nio-8666-exec-1]DEBUGc.liminghua.api.sysb.mapper.UserMapper.getAllUser-==> Parameters: 
+2021-03-03 : 10:53:17.374[http-nio-8666-exec-1]DEBUGc.liminghua.api.sysb.mapper.UserMapper.getAllUser-<==      Total: 2
+2021-03-03 : 11:04:24.149[main]DEBUGcom.liminghua.api.ApiApplication-Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-03-03 : 11:14:09.705[main]DEBUGcom.liminghua.api.ApiApplication-Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-03-03 : 11:15:16.479[main]DEBUGcom.liminghua.api.ApiApplication-Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-03-03 : 11:16:51.509[main]DEBUGcom.liminghua.api.ApiApplication-Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-03-03 : 11:17:02.087[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==>  Preparing: select * from api where api_url = ? 
+2021-03-03 : 11:17:02.110[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-==> Parameters: /sysa/car/query/all(String)
+2021-03-03 : 11:17:02.134[http-nio-8666-exec-1]DEBUGc.l.api.system.mapper.ApiMapper.getInterfaceByUrl-<==      Total: 1
+2021-03-03 : 11:17:02.150[http-nio-8666-exec-1]DEBUGcom.liminghua.api.sysa.mapper.CarMapper.getAllCar-==>  Preparing: select * from car 
+2021-03-03 : 11:17:02.150[http-nio-8666-exec-1]DEBUGcom.liminghua.api.sysa.mapper.CarMapper.getAllCar-==> Parameters: 
+2021-03-03 : 11:17:02.152[http-nio-8666-exec-1]DEBUGcom.liminghua.api.sysa.mapper.CarMapper.getAllCar-<==      Total: 1
+2021-03-03 : 11:19:50.976[main]DEBUGcom.liminghua.api.ApiApplication-Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-03-03 : 11:20:03.992[http-nio-8666-exec-1]DEBUGc.l.a.s.mapper.ApiMapper.getAllInterfaceFromDb-==>  Preparing: select * from api 
+2021-03-03 : 11:20:04.018[http-nio-8666-exec-1]DEBUGc.l.a.s.mapper.ApiMapper.getAllInterfaceFromDb-==> Parameters: 
+2021-03-03 : 11:20:04.073[http-nio-8666-exec-1]DEBUGc.l.a.s.mapper.ApiMapper.getAllInterfaceFromDb-<==      Total: 6

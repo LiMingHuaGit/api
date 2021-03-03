@@ -15,7 +15,7 @@ import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
 import javax.sql.DataSource;
 
 /**
- * 自定义sysb的DataSouce和SqlSessionFactory、SqlSessionTemplate
+ * 自定义sysb的DataSource和SqlSessionFactory、SqlSessionTemplate
  * @ClassName MybatisConfigB
  * @Author LiMinghua
  * @Date 2020/6/1
@@ -32,6 +32,7 @@ public class MybatisConfigB {
      * @date: 2020/6/2 8:55
      */
     @Bean(name = "dataSourceB")
+    @Qualifier("dataSourceB")
     @ConfigurationProperties(prefix = "spring.datasource.sysb")
     public DataSource dataSourceB() {
         return DataSourceBuilder.create().build();
@@ -43,6 +44,7 @@ public class MybatisConfigB {
      * @date: 2020/6/2 8:58
      */
     @Bean(name = "sqlSessionFactoryB")
+    @Qualifier("sqlSessionFactoryB")
     SqlSessionFactory sqlSessionFactoryB(@Qualifier("dataSourceB") DataSource dataSource) throws Exception {
         SqlSessionFactoryBean bean = new SqlSessionFactoryBean();
         bean.setDataSource(dataSource);
@@ -55,6 +57,7 @@ public class MybatisConfigB {
      * @date: 2020/6/2 8:59
      */
     @Bean(name = "sqlSessionTemplateB")
+    @Qualifier("sqlSessionTemplateB")
     SqlSessionTemplate sqlSessionTemplateB(@Qualifier("sqlSessionFactoryB")  SqlSessionFactory sqlSessionFactory) {
         return new SqlSessionTemplate(sqlSessionFactory);
     }

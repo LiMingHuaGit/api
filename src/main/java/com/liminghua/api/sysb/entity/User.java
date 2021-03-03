@@ -1,5 +1,7 @@
 package com.liminghua.api.sysb.entity;
 
+import com.arturmkrtchyan.sizeof4j.SizeOf;
+
 /**
  * @ClassName User
  * @Description: 用户表实体

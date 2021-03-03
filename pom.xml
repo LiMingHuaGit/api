@@ -43,7 +43,13 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <scope>runtime</scope>
+            <version>8.0.23</version>
+        </dependency>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.5.0</version>
+            <scope>test</scope>
         </dependency>
         <!--以最简单的helloworld为例，在测试类的类头部需要添加：@RunWith(SpringRunner.class)和@SpringBootTest注解，-->
         <!--在测试方法的顶端添加@Test即可，最后在方法上点击右键run就可以运行。-->
@@ -102,6 +108,18 @@
             <artifactId>spring-aop</artifactId>
             <version>5.2.8.RELEASE</version>
         </dependency>
+        <dependency>
+            <groupId>com.arturmkrtchyan.sizeof4j</groupId>
+            <artifactId>sizeof4j</artifactId>
+            <version>0.1.0</version>
+        </dependency>
+        <!-- CXF webservice -->
+        <dependency>
+            <groupId>org.apache.cxf</groupId>
+            <artifactId>cxf-spring-boot-starter-jaxws</artifactId>
+            <version>3.4.2</version>
+        </dependency>
+        <!-- CXF webservice -->
     </dependencies>
 
 
@@ -110,6 +128,7 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+                <version>2.2.6.RELEASE</version>
             </plugin>
         </plugins>
         <resources>

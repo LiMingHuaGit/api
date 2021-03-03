@@ -2,6 +2,7 @@ package com.liminghua.api.system.service.impl;
 import com.liminghua.api.system.entity.Api;
 import com.liminghua.api.system.mapper.ApiMapper;
 import com.liminghua.api.system.service.ApiService;
+import com.liminghua.api.system.util.WebServiceUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -81,7 +82,7 @@ public class ApiServiceImpl implements ApiService {
         //查询数据库中存在的接口信息
         List<Api> dbApiList = getAllInterfaceFromDb();
 
-        List<Integer> removeList = new ArrayList<Integer> ();
+        List<Integer> removeList = new ArrayList<Integer>();
         for(int i = 0;i < apilist.size();i++){
             for (Api api : dbApiList) {
                 if (api.getApiUrl().equals(apilist.get(i).get("url"))&&api.getApiMethod().equals(apilist.get(i).get("method"))) {

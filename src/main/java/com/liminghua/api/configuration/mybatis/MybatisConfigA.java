@@ -1,5 +1,6 @@
 package com.liminghua.api.configuration.mybatis;
 
+import com.alibaba.druid.pool.DruidDataSource;
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.mybatis.spring.SqlSessionFactoryBean;
 import org.mybatis.spring.SqlSessionTemplate;
@@ -14,7 +15,7 @@ import org.springframework.context.annotation.Primary;
 import javax.sql.DataSource;
 
 /**
- * 自定义sysa的DataSouce和SqlSessionFactory、SqlSessionTemplate
+ * 自定义sysa的DataSource和SqlSessionFactory、SqlSessionTemplate
  * @ClassName MybatisConfigA
  * @Author LiMinghua
  * @Date 2020/6/1
@@ -32,10 +33,12 @@ public class MybatisConfigA {
      * @date: 2020/6/2 8:55
      */
     @Bean(name = "dataSourceA")
+    @Qualifier("dataSourceA")
     @ConfigurationProperties(prefix = "spring.datasource.sysa")
     @Primary
     public DataSource dataSourceA() {
         return DataSourceBuilder.create().build();
+        //return new DruidDataSource();
     }
 
     /**
@@ -44,6 +47,7 @@ public class MybatisConfigA {
      * @date: 2020/6/2 8:58
      */
     @Bean(name = "sqlSessionFactoryA")
+    @Qualifier("sqlSessionFactoryA")
     @Primary
     SqlSessionFactory sqlSessionFactoryA(@Qualifier("dataSourceA") DataSource dataSource) throws Exception {
         SqlSessionFactoryBean bean = new SqlSessionFactoryBean();
@@ -57,6 +61,7 @@ public class MybatisConfigA {
      * @date: 2020/6/2 8:59
      */
     @Bean(name = "sqlSessionTemplateA")
+    @Qualifier("sqlSessionTemplateA")
     @Primary
     SqlSessionTemplate sqlSessionTemplateA(@Qualifier("sqlSessionFactoryA")  SqlSessionFactory sqlSessionFactory) {
         return new SqlSessionTemplate(sqlSessionFactory);
