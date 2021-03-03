@@ -12,5 +12,5 @@ public interface UserService {
      * @auther: LiMinghua
      * @date: 2020/6/1 11:10
      */
-    public String getAllUser();
+     String getAllUser();
 }
